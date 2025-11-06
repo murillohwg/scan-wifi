@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Thu Nov  6 09:00:48 2025 as: /usr/lib/nmap/nmap --privileged -sV -O -T4 -oN relatorio_tecnico.txt default
+Failed to resolve "default".
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Thu Nov  6 09:00:48 2025 -- 0 IP addresses (0 hosts up) scanned in 0.42 seconds
