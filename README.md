@@ -2,7 +2,9 @@
 
 > **Resumo:** Um serviço de auditoria rápida para pequenos negócios e residências. Eu descubro "quem" está na sua rede, identifico dispositivos vulneráveis (como câmeras com senhas fracas) e entrego um relatório em PDF fácil de entender.
 
+
 ![Demo do Scanner Nmap](demo-nmap.gif)
+
 
 ---
 
